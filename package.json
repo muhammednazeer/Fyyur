@@ -1,5 +1,5 @@
 {
-  "name": "starter_code",
+  "name": "fyyur",
   "version": "1.0.0",
   "description": "Fyyur -----",
   "main": "index.js",
@@ -7,9 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "'Muhammed Hussaini'",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammednazeer/fyyur.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhammednazeer/fyyur/issues"
+  },
+  "homepage": "https://github.com/muhammednazeer/fyyur#readme"
 }
